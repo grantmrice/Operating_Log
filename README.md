@@ -5,7 +5,8 @@ The goal of this project to to track patient movement around the clinic using Lo
 
 The project is composed of several parts:
 - Detecting entries/exits with Lenovo sticks
-- Generating a searchable map/list of patient locations
+- Generating a searchable map/list of patient locations in real time
+- Recording timing data for billing
 - Display to be placed on monitors in the hallways
 - A master GUI to operate on the computer at the front desk
 - Networking between Lenovo sticks and the front desk
